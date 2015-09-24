@@ -1,10 +1,11 @@
 package trabalhoPoo;
 
-public class Exame {
+public class Exame  {
 	private String dataExame;
 	private String dataRetirada;
 	private String tipodeExame; // jcombox na classe janela
-	
+		
+		
 	public Exame(String dataExame, String dataRetirada, String tipodeExame) {
 		
 		this.dataExame = dataExame;
